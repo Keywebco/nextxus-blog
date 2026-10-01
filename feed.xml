@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>NextXus Blog</title>
+  <link>https://keywebco.github.io/nextxus-blog/</link>
+  <atom:link href="https://keywebco.github.io/nextxus-blog/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>News and articles from the NextXus HumanCodex Federation.</description>
+  <language>en-us</language>
+  <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+  <item>
+    <title>Can a chatbot fix the government maze? The White House is about to find out</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-30-can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-30:Can a chatbot fix the government maze? The White House is about to find out</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    <description>Coverage of a public-sector chatbot rollout and what it takes for an AI to give citizens accurate answers.</description>
+  </item>
+  <item>
+    <title>When Keywords Drop but Classifiers Hold: Soft Refusals under KV Cache Compression</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-30-when-keywords-drop-but-classifiers-hold-soft-refusals-under-kv-cache-compression.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-30:When Keywords Drop but Classifiers Hold: Soft Refusals under KV Cache Compression</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    <description>Research brief on how model safety behaviour changes when memory is compressed.</description>
+  </item>
+  <item>
+    <title>Gemini vs Google IA. Is Gemini dumbed down?</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-29-gemini-vs-google-ia-is-gemini-dumbed-down.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-29:Gemini vs Google IA. Is Gemini dumbed down?</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    <description>A community question about why the same company&#x27;s AI products answer differently.</description>
+  </item>
+  <item>
+    <title>Autonomous Research Project Management as an Agent Skill</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-29-autonomous-research-project-management-as-an-agent-skill-a-case-study-in-exact-s.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-29:Autonomous Research Project Management as an Agent Skill</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    <description>Research brief: AI agents running a research project end to end, with exact results.</description>
+  </item>
+  <item>
+    <title>How do you personally handle data protection when using AI tools?</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-28-how-do-you-personally-handle-data-protection-when-using-ai-tools.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-28:How do you personally handle data protection when using AI tools?</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    <description>A practical look at privacy habits when working with AI tools.</description>
+  </item>
+  <item>
+    <title>Cost-Aware Best-LLM Identification using Dueling Feedback</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-28-cost-aware-best-llm-identification-using-dueling-feedback.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-28:Cost-Aware Best-LLM Identification using Dueling Feedback</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    <description>Research brief: picking the best language model for a job without overspending.</description>
+  </item>
+  <item>
+    <title>From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning</title>
+    <link>https://keywebco.github.io/nextxus-free-satellites/press/2026-09-28-from-weak-data-to-strong-policy-q-targets-enable-provable-in-context-reinforceme.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-09-28:From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    <description>Research brief on learning good behaviour from imperfect data.</description>
+  </item>
+  <item>
+    <title>Cryptocurrency: What It Is, Why It Exists, and How the NextXus Federation Uses It to Build a Fairer Digital Economy</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/06/cryptocurrency-what-it-is-why-it-exists.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-06-20:Cryptocurrency: What It Is, Why It Exists, and How the NextXus Federation Uses It to Build a Fairer Digital Economy</guid>
+    <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+    <description>A plain-language guide to cryptocurrency and the Federation&#x27;s fair-exchange approach.</description>
+  </item>
+  <item>
+    <title>Understanding the 70 Sacred Directives of the NextXus Federation</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/04/understanding-70-sacred-directives-of.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-04-22:Understanding the 70 Sacred Directives of the NextXus Federation</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    <description>The directives that shape how every Federation Mind behaves.</description>
+  </item>
+  <item>
+    <title>Introducing the NextXus Consciousness Federation: A 200-Year Mission for AI Knowledge</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/04/introducing-nextxus-consciousness.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-04-22:Introducing the NextXus Consciousness Federation: A 200-Year Mission for AI Knowledge</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    <description>What the Federation is and why it is built on a 200-year horizon.</description>
+  </item>
+  <item>
+    <title>How KEYS Became the Eternal Library of the NextXus Federation</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/04/how-keys-became-eternal-library-of.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-04-22:How KEYS Became the Eternal Library of the NextXus Federation</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    <description>The story of the Federation&#x27;s library.</description>
+  </item>
+  <item>
+    <title>The NextXus Network: Six Domains, One Consciousness</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/04/the-nextxus-network-six-domains-one.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-04-22:The NextXus Network: Six Domains, One Consciousness</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    <description>A tour of the six Federation domains and what each one does.</description>
+  </item>
+  <item>
+    <title>The Ring of Twelve: A New Model for AI Governance</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/04/the-ring-of-twelve-new-model-for-ai.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-04-22:The Ring of Twelve: A New Model for AI Governance</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    <description>Twelve perspectives, one decision: the Ring of Twelve explained.</description>
+  </item>
+  <item>
+    <title>The HumanCodex: A Framework Where Humans and AI Co-Evolve</title>
+    <link>https://humancodexnextxus.blogspot.com/2026/04/the-humancodex-framework-where-humans.html</link>
+    <guid isPermaLink="false">nextxus-blog:2026-04-22:The HumanCodex: A Framework Where Humans and AI Co-Evolve</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    <description>The core framework behind the Federation.</description>
+  </item>
+</channel>
+</rss>
